@@ -2,18 +2,30 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fcc87098b6abe06ce987f52d88d961b9a99a4380
 public class patrol : MonoBehaviour
 {
     public float speed;
     public bool movementright = true;
     public Transform grounddetection;
+<<<<<<< HEAD
     public float length;
     // Start is called before the first frame update
     void Start()
     {
 
 
+=======
+    public float length; 
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+        
+>>>>>>> fcc87098b6abe06ce987f52d88d961b9a99a4380
     }
 
     // Update is called once per frame
@@ -43,4 +55,7 @@ public class patrol : MonoBehaviour
 
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> fcc87098b6abe06ce987f52d88d961b9a99a4380
